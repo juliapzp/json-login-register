@@ -57,7 +57,7 @@ input {
 
 input:focus {
     outline: none;
-    box-shadow: 0 0 5px #6c9;
+    box-shadow: 0 0 5px rgba(143, 48, 180, 0.534);
 }
 
 button {
